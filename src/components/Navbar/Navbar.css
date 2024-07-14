@@ -46,4 +46,25 @@
   .name{
     font-size: 25px;
   }
+
+ }
+ @media (max-width:375px) {
+   .name{
+    font-size: 20px;
+   }
+ }
+
+ @media (max-width:984px) {
+   .hidan{
+    display: none;
+   }
+ }
+ @media (max-width:1024px) {
+   .cen-menu{
+    font-size: 15px;
+    gap: 10px;
+   }
+   .name{
+    font-size: 20px;
+   }
  }

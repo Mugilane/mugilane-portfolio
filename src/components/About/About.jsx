@@ -23,6 +23,13 @@ const About = () => {
                         easy upgrade my self.</p>
                         
                 </div>
+                <div className="education">
+                    <h1>Education</h1>
+                    <h4>Christ College of Engineering and technology, puducherry.</h4>
+                    <p>2020-2024 batch</p>
+                    <p>B.tech - Computer science and Engineering</p>
+                    <h6>CGPA - 8.53</h6>
+                </div>
 
             </div>
             </div>
