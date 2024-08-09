@@ -16,7 +16,7 @@ const Header = () => {
               Hire Me</AnchorLink>
               </div>
             <div className="resume" >
-            <a className='div-btn' href="https://github.com/Mugilane/mugilane-portfolio/blob/main/public/MUGILANE%20CV%20RESUME.pdf">
+            <a className='div-btn' href="https://github.com/Mugilane/mugilane-portfolio/raw/main/public/MUGILANE%20CV%20RESUME.pdf">
             My Resume/CV</a></div>
         </div>
     </div>
