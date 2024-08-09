@@ -4,7 +4,7 @@ import pro_img from '../../assets/prof_img.jpg'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 const Header = () => {
-  const pdf_link = 'https://drive.google.com/file/d/1kd8lZlNSh-k9mdnQ2a4893adk3sz6_l3/view?usp=drive_link';
+  const pdf_link = 'https://github.com/Mugilane/mugilane-portfolio/blob/main/public/MUGILANE%20CV%20RESUME.pdf';
   return (
     <div id='home' className='header container'>
         <img src={pro_img} alt="" className='pro-img mx-auto d-block'/>
@@ -16,7 +16,7 @@ const Header = () => {
               Hire Me</AnchorLink>
               </div>
             <div className="resume" >
-            <a className='div-btn' href="https://drive.google.com/file/d/1kd8lZlNSh-k9mdnQ2a4893adk3sz6_l3/view?usp=drive_link">
+            <a className='div-btn' href="https://github.com/Mugilane/mugilane-portfolio/blob/main/public/MUGILANE%20CV%20RESUME.pdf">
             My Resume/CV</a></div>
         </div>
     </div>
