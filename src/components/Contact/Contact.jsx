@@ -4,6 +4,7 @@ import phone from '../../assets/phone.svg'
 import mail from '../../assets/mail.svg'
 import location from '../../assets/location.svg'
 import linkedin from '../../assets/linkedin.svg'
+import github from '../../assets/githublogo.svg'
 
 const Contact = () => {
     
@@ -55,7 +56,11 @@ const Contact = () => {
             </div>
             <div className="contact-detial">
                 <img src={linkedin} alt="" /><a className='lin' href='https://www.linkedin.com/in/mugilane-sdm-82b193312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-                >mugilane sdm</a>
+                >mugilane Linkedin page</a>
+            </div>
+            <div className="contact-detial">
+                <img src={github} alt="" /><a className='lin' href='https://github.com/Mugilane'
+                >mugilane Github page</a>
             </div>
             </div>
         </div>

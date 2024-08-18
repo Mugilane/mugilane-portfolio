@@ -11,7 +11,7 @@ const Footer = () => {
          </div>
       
         <div className="footer-top-right">
-         <div className="resu"> <a className='' href="https://github.com/Mugilane/mugilane-portfolio/raw/main/public/MUGILANE%20CV%20RESUME.pdf">
+         <div className="resu"> <a className='' href="https://github.com/Mugilane/mugilane-portfolio/raw/main/public/MUGILANE%20CV-RESUME%20updated.pdf">
             My Resume/CV</a></div>
          <div className="hire">Hire Me</div>
         </div>
