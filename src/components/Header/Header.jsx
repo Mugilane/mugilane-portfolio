@@ -10,7 +10,7 @@ const Header = () => {
         <img src={pro_img} alt="" className='pro-img mx-auto d-block'/>
         <h1 className='mx-auto'><span>I'm Mugilane,</span> B.Tech Computer Science Student at Pondicherry University </h1>
         <p className='mx-auto' style={{textAlign:'justify'}}>I am Fresher for seeking Web application and Andorid Application developer role. I have a knowledeg for
-          python, SQL, Java based jobs are sutable for me.
+          python, SQL, Java, C# and Dot Net related roles are sutable for me.
         </p>
         <div className="header-action mx-auto">
             <div className="hire-action" onClick={()=> setMenu("contact")}>
@@ -18,7 +18,7 @@ const Header = () => {
               Hire Me</AnchorLink>
               </div>
             <div className="resume" >
-            <a className='div-btn' href="https://github.com/Mugilane/mugilane-portfolio/raw/main/public/MUGILANE%20CV%20RESUME.pdf">
+            <a className='div-btn' href="https://github.com/Mugilane/mugilane-portfolio/raw/main/public/MUGILANE%20CV-RESUME%20updated.pdf">
             My Resume/CV</a></div>
         </div>
     </div>
